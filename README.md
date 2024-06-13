@@ -2,10 +2,10 @@
 
 ## Templates: 
 1. ### Actix-Basic:
-   This repo contains basic Actix syntax that i personally use for every Actix dummy project I start
+   Basic Actix syntax that i personally use for every Actix dummy project I start
 
 2. ### MySQLConnections:
-   This repo contains basic connections between Actix and a MySQL database. It's very basic, just a setup. 
+   Basic connections between Actix and a MySQL database. It's very basic, just a setup. 
 
 3. ### Json-Server:
    This repo is for using json-server and node in general with an Actix server
