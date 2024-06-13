@@ -1,12 +1,12 @@
-[submodule "MySQLConnections"]
-	path = MySQLConnections
-	url = https://github.com/sellsword9/Rust--Template--ActixWeb_MySQL_Connections
+[submodule "Rust--Template--ActixWeb_MySQL_Connections"]
+path = Rust--Template--ActixWeb_MySQL_Connections
+url = https://github.com/sellsword9/Rust--Template--ActixWeb_MySQL_Connections
 [submodule "Rust--Template--ActixWeb_BasicStructure"]
-	path = Rust--Template--ActixWeb_BasicStructure
-	url = https://github.com/sellsword9/Rust--Template--ActixWeb_BasicStructure
-[submodule "Using_json-server"]
-	path = Using_json-server
-	url = https://github.com/Sellsword9/Rust--Template--Actix_with_Node_json_server
-[submodule "Actix-basic"]
-	path = Actix-basic
-	url = https://github.com/Sellsword9/Rust--Template--ActixWeb_BasicStructure
+path = Rust--Template--ActixWeb_BasicStructure
+url = https://github.com/sellsword9/Rust--Template--ActixWeb_BasicStructure
+[submodule "Rust--Template--Actix_with_Node_json_server"]
+path = Rust--Template--Actix_with_Node_json_server
+url = https://github.com/Sellsword9/Rust--Template--Actix_with_Node_json_server
+[submodule "Rust--Template--Godot_Bindings"]
+path = Rust--Template--Godot_Bindings
+url = https://github.com/sellsword9/Rust--Template--Godot_Bindings
