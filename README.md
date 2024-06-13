@@ -9,3 +9,6 @@
 
 3. ### Json-Server:
    This repo is for using json-server and node in general with an Actix server
+
+4. ### Godot bindings:
+   Setup of Rust libraries for Godot to use and a Makefile to manage building
