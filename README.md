@@ -12,3 +12,6 @@
 
 4. ### Godot bindings:
    Setup of Rust libraries for Godot to use and a Makefile to manage building
+   
+5. ### Mouse reader
+   Not really a template, but a simple program that reads the mouse position and prints it to the console. 

@@ -10,3 +10,6 @@
 [submodule "Rust--Template--Godot_Bindings"]
 	path = Rust--Template--Godot_Bindings
 	url = https://github.com/Sellsword9/Rust--Template--Godot_Bindings
+[submodule "Rust--Mouse_reader"]
+	path = Rust--Mouse_reader
+	url = https://github.com/Sellsword9/Rust--Mouse_reader.git
